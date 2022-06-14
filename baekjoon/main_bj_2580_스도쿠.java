@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class main_bj_2580_스도쿠 {
+public class Main_bj_2580_스도쿠 {
 
     static int map[][];
     static int flag = 0;
