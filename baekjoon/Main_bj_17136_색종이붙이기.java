@@ -1,9 +1,7 @@
-package week_6;
-
 import java.io.*;
 import java.util.*;
 
-public class Main_bj_17136_색종이붙이기_대전_5반_윤석찬 {
+public class Main_bj_17136_색종이붙이기{
 	
     static int[][] map;
     static int[] paper = {0, 5, 5, 5, 5, 5};
